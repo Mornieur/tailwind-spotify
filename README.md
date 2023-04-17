@@ -2,8 +2,8 @@
 
 </br>
 
-<div align='center'>
-          <img src="/spotify-clone.png" alt='project image' width='600'  />
+<div>
+  <img src="/spotify-clone.png" alt='project image' width='600'  />
 <div/>
 
 </br>
