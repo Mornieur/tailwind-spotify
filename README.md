@@ -32,6 +32,8 @@ Este é um projeto que replica a página inicial do Spotify usando Tailwind CSS.
    git clone https://github.com/Mornieur/tailwind-spotify.git
 
     Navegue até a pasta do projeto:
+    
+    cd tailwind-spotify
 
     
    ```
