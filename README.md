@@ -1,6 +1,7 @@
-# Tailwind Spotify
+
 
 <div align='center'>
+  # Tailwind Spotify
   <img src="./src/assets/spotify-clone.png" alt='project image' width='600'  />
 </div>
 
