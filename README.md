@@ -1,6 +1,8 @@
 # Tailwind Spotify
 
-<img src="/spotify-clone.png" />
+<div align='center'>
+          <img src="/spotify-clone.png" alt='project image' width='600'  />
+        <div/>
 
 Este é um projeto que replica a página inicial do Spotify usando Tailwind CSS.
 
@@ -10,7 +12,6 @@ Este é um projeto que replica a página inicial do Spotify usando Tailwind CSS.
 - [HTML](https://html.com/)
 - [CSS](https://css.com/)
 - [NEXT](https://next.com/)
-
 
 ## Instalação
 
@@ -22,6 +23,7 @@ Este é um projeto que replica a página inicial do Spotify usando Tailwind CSS.
     Navegue até a pasta do projeto:
 
     sh
+   ```
 
 cd tailwind-spotify
 
@@ -51,6 +53,5 @@ Contribuições são sempre bem-vindas! Sinta-se à vontade para abrir uma issue
 Licença
 
 Este projeto é distribuído sob a licença MIT. Consulte o arquivo LICENSE para obter mais informações.
-
 
 Espero que isso ajude!
