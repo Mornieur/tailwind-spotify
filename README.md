@@ -65,8 +65,9 @@ Esse comando irá gerar um arquivo style.css na pasta dist com o CSS compilado.
 ## Contribuindo
 
 Contribuições são sempre bem-vindas! Sinta-se à vontade para abrir uma issue ou uma pull request para melhorar este projeto.
-Licença
 
+## Licença
+ 
 Este projeto é distribuído sob a licença MIT. Consulte o arquivo LICENSE para obter mais informações.
 
 Espero que isso ajude!
