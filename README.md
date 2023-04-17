@@ -8,6 +8,8 @@ Este é um projeto que replica a página inicial do Spotify usando Tailwind CSS.
 
 - [Tailwind CSS](https://tailwindcss.com/)
 - [HTML](https://html.com/)
+- [CSS](https://css.com/)
+- [NEXT](https://next.com/)
 
 ## Instalação
 
