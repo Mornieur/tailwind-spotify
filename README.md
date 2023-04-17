@@ -1,11 +1,17 @@
 
-  # Tailwind Spotify
+
+<div align='center'>
+  <h1 >Tailwind Spotify</h1>
+</div>
+
+<br />
+
 <div align='center'>
 
   <img src="./src/assets/spotify-clone.png" alt='project image' width='600'  />
 </div>
 
-<br/>
+<br />
 
  <h4>
 Este é um projeto que replica a página inicial do Spotify usando Tailwind CSS.
