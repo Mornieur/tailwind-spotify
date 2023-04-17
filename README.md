@@ -30,35 +30,37 @@ Este é um projeto que replica a página inicial do Spotify usando Tailwind CSS.
 
    ```
    git clone https://github.com/Mornieur/tailwind-spotify.git
+   
+   ```
 
     Navegue até a pasta do projeto:
     
+    ```
+    
     cd tailwind-spotify
 
-    
-   ```
-
-cd tailwind-spotify
-
-Abra o arquivo index.html em seu navegador para ver o projeto.
+    ```
+  
 
 Caso queira realizar modificações no projeto, você pode seguir os seguintes passos:
 
-    Abra a pasta do projeto em seu editor de código;
-
-    Execute o comando abaixo no terminal para instalar todas as dependências necessárias para o projeto funcionar corretamente:
-
-    
+ Execute o comando abaixo no terminal para instalar todas as dependências necessárias para o projeto funcionar corretamente:
+ 
+ ```
 
 npm install
 
+ ```
+
 Após realizar as modificações desejadas, execute o seguinte comando no terminal para compilar o CSS do Tailwind:
 
+```
+npm run build
 
+```
 
-        npm run build
-
-        Esse comando irá gerar um arquivo style.css na pasta dist com o CSS compilado.
+Esse comando irá gerar um arquivo style.css na pasta dist com o CSS compilado.
+        
 
 ## Contribuindo
 
