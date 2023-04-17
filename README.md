@@ -6,7 +6,9 @@
 
 <br/>
 
-- Este é um projeto que replica a página inicial do Spotify usando Tailwind CSS.
+ <h4>
+Este é um projeto que replica a página inicial do Spotify usando Tailwind CSS.
+</h4>
 
 ## Tecnologias utilizadas
 
