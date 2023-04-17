@@ -4,7 +4,9 @@
   <img src="./src/assets/spotify-clone.png" alt='project image' width='600'  />
 </div>
 
-Este é um projeto que replica a página inicial do Spotify usando Tailwind CSS.
+<br/>
+
+- Este é um projeto que replica a página inicial do Spotify usando Tailwind CSS.
 
 ## Tecnologias utilizadas
 
