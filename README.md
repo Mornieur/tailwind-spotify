@@ -69,6 +69,8 @@ Para abrir a documentação com storybook, execute o seguinte comando:
 npm run storybook
 
 ```
+
+<br />
         
 
 ## Contribuindo
