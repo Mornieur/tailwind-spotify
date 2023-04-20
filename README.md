@@ -60,6 +60,15 @@ npm run build
 ```
 
 Esse comando irá gerar um arquivo style.css na pasta dist com o CSS compilado.
+
+## Documentação
+
+Para abrir a documentação com storybook, execute o seguinte comando:
+
+```
+npm run storybook
+
+```
         
 
 ## Contribuindo
